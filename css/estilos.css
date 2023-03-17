@@ -4,6 +4,15 @@ body {
     text-align: center;
 }
 
+.cabecera {
+    background: #887;
+    color: white;
+    padding: 0.5em;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+}
+
 .container {
     border: 1px solid #446;
     width: 70%;

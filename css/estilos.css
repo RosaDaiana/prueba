@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    color: #366;
+    color: #789;
     text-align: center;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .footer{
-    background: #887;
+    background: #789;
     color: white;
     text-align: center;
     font-size: 20px;
